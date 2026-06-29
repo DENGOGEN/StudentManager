@@ -1,0 +1,18 @@
+## Игнорируем результаты сборки .NET / WPF
+[Dd]ebug/
+[Release]/
+x64/
+x86/
+bin/
+obj/
+
+## Служебные файлы Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Логи и кэш
+*.log
+*.tmp
