@@ -1,5 +1,6 @@
 ﻿namespace StudentManager
 {
+    // Добавле в feature-ветке
     public class Student
     {
         public string FullName { get; set; }
