@@ -4,9 +4,7 @@ using System.Windows;
 
 namespace StudentManager
 {
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
+    // Фикс логов
     public partial class App : Application
     {
     }
