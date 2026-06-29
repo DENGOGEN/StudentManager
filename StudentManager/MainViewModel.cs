@@ -27,7 +27,7 @@ namespace StudentManager
         private readonly List<Student> _allowedStudentsDatabase = new List<Student>
         {
             // ===== ГРУППА ИСП-11 =====
-            new Student("Иванов Иван Иванович", "ИСП-11"),
+            new Student("Иванов Иван Иванович (ВЫПУСКНИК)", "ИСП-11"),
             new Student("Макаров Максим Андреевич", "ИСП-11"),
             new Student("Петров Петр Петрович", "ИСП-11"),
             new Student("Астахов Илья Сергеевич", "ИСП-11"),
